@@ -1,4 +1,6 @@
 ### Hi there 👋
+contributor in https://github.com/real-mozzevelnik/subd
+
 
 <!--
 **AmiciaDeMonfourt/AmiciaDeMonfourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
