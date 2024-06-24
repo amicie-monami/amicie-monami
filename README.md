@@ -1,7 +1,8 @@
 ### Hi there 👋
+<!--
 - 🔭 I’m currently working on https://github.com/real-mozzevelnik/subd
 - 🌱 I’m currently learning Golang, DBMS, Internet and Web programming
-  
+-->
 #
 ### Technologies:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
