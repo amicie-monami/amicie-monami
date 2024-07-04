@@ -1,6 +1,7 @@
 ### Hi there 👋
-<!--
-- 🔭 I’m currently working on https://github.com/real-mozzevelnik/subd
+🔭 - I’m currently working on https://github.com/AmiciaDeMonfourt/PawPawChat
+🌱 - recent project: https://github.com/real-mozzevelnik/subd
+<!--  
 - 🌱 I’m currently learning Golang, DBMS, Internet and Web programming
 -->
 #
