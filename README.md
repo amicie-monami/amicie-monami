@@ -8,7 +8,7 @@
 -->
 #
 ### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,cs,java,nodejs,bash,powershell,docker,rabbitmq,graphql,linux,windows,aws,postgresql,redis,mongodb,vscode,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,cs,java,nodejs,bash,powershell,docker,kafka,graphql,linux,windows,aws,postgresql,redis,mongodb,vscode,git&theme=dark)](https://skillicons.dev)
 
 <!--
 **AmiciaDeMonfourt/AmiciaDeMonfourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
