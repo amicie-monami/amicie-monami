@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 - I’m currently working on https://github.com/AmiciaDeMonfourt/PawPawChat
+🔭 - I’m currently working on https://github.com/AmiciaDeMonfourt/messanger
 
 🌱 - recent project: https://github.com/real-mozzevelnik/subd
 
