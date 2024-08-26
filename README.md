@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋</h2>
 
- 🌍 - I’m currently working on [PawPawChat](https://github.com/amicie-monami/ppc_core)  
+ 🌍 - I’m currently working on [PawPawChat](https://github.com/pawpawchat)  
 🍂 - recent project: [DBA](https://github.com/real-mozzevelnik/subd)  
 🌱 - I’m currently learning go's concurrency, CI/CD, archutecture patterns 
 
