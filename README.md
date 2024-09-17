@@ -1,8 +1,8 @@
 <h2 align="center">Hi there 👋</h2>
 
- 🌍 - I’m currently working on [PawPawChat](https://github.com/pawpawchat)  
-🍂 - recent project: [DBA](https://github.com/real-mozzevelnik/subd)  
-🌱 - I’m currently learning go's concurrency, CI/CD, archutecture patterns 
+🌍 - I’m currently working on [PawPawChat](https://github.com/pawpawchat)  
+🍂 - Recent project: [DBA](https://github.com/real-mozzevelnik/subd)  
+<!-- 🌱 - I’m currently learning go's concurrency, CI/CD, archutecture patterns 
 
 
 <!--  
