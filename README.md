@@ -10,7 +10,7 @@
 -->
 #
 ### Technologies:
-[![My Skills](https://skillicons.dev/icons?i=golang,c,cpp,cs,java,nodejs,bash,powershell,docker,kafka,graphql,linux,windows,aws,postgresql,redis,mongodb,vscode,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,python,c,cpp,nodejs,bash,docker,kafka,graphql,linux,aws,postgresql,redis,mongodb,git&theme=dark)](https://skillicons.dev)
 
 ## <h3 align="left">GitHub Stats</h3>
 <!--
